@@ -1,4 +1,4 @@
-# Student Marks:-
+# Student Marks Prediction:-
 I’m happy to share my latest project! I built this tool to help predict a student's final marks based on their academic progress and study habits throughout the semester.
 
 # Project Overview:-
